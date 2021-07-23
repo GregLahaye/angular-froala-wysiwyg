@@ -11,7 +11,7 @@
       "jquery"
     ],
     "mapRoot": "./",
-    "module": "esnext",
+    "module": "es2020",
     "moduleResolution": "node",
     "outDir": "../temp/out-tsc",
     "sourceMap": true,
