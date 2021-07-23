@@ -1,6 +1,7 @@
 import { NgModule, ModuleWithProviders } from '@angular/core';
 
 import { FroalaViewDirective } from './view.directive';
+import { FroalaEditorModule } from "../editor";
 
 @NgModule({
   declarations: [FroalaViewDirective],
