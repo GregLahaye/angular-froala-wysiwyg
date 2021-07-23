@@ -12,7 +12,8 @@
     "build": "ngm build --prod src --clean",
     "link": "ngm link -p src --here",
     "build.watch": "ngm build -p src --watch --skip-bundles",
-    "start": "ng serve --aot=false --host 0.0.0.0"
+    "start": "ng serve --aot=false --host 0.0.0.0",
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
