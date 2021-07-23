@@ -2,9 +2,9 @@
   "name": "angular-froala-wysiwyg",
   "version": "2.9.8",
   "description": "Angular 2, 4, 5, 6 and 7 bindings for Froala WYSIWYG HTML rich text editor",
-  "main": "bundles/angular-froala-wysiwyg.umd.js",
-  "typings": "index.d.ts",
-  "module": "index.js",
+  "main": "dist/bundles/angular-froala-wysiwyg.umd.js",
+  "typings": "dist/index.d.ts",
+  "module": "dist/index.js",
   "scripts": {
     "lite-server": "lite-server -c demo/bs-config.json",
     "demo.serve": "npm run -s build link demo.build lite-server",
