@@ -1,0 +1,45 @@
+{
+	"main": "bundles/angular-froala-wysiwyg.umd.js",
+	"version": "2.9.8",
+	"description": "Angular 2, 4, 5, 6 and 7 bindings for Froala WYSIWYG HTML rich text editor",
+	"module": "index.js",
+	"typings": "index.d.ts",
+	"keywords": [
+		"angular2",
+		"angular4",
+		"angular5",
+		"angular6",
+		"angular7",
+		"ng2",
+		"ng4",
+		"ng5",
+		"ng6",
+		"ng7",
+		"froala",
+		"html",
+		"text",
+		"editor",
+		"wysiwyg",
+		"jquery-plugin",
+		"rich editor",
+		"rich text editor",
+		"rte",
+		"javascript",
+		"jquery"
+	],
+	"author": {
+		"name": "Froala Labs",
+		"url": "https://www.froala.com/"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/froala/angular-froala-wysiwyg.git"
+	},
+	"name": "angular-froala-wysiwyg",
+	"dependencies": {
+		"@types/jquery": "^2.0.40",
+		"froala-editor": "2.9.8"
+	},
+	"_id": "angular-froala-wysiwyg@2.9.8"
+}
