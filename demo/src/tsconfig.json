@@ -19,5 +19,11 @@
     "typeRoots": [
       "../node_modules/@types"
     ]
-  }
+  },
+  "files": [
+    "main.ts"
+  ],
+  "include": [
+    "demo/src/**/*.d.ts"
+  ]
 }
